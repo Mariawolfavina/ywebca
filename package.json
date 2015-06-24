@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for Maria Avina",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mariawolfavina/ywebca.git"
+  },
+  "author": {
+    "name": "Maria Avina",
+    "email": "marialupehernandez15@gmail.com",
+    "url": "https://github.com/mariawolfavina"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
